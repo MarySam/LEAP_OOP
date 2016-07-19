@@ -18,7 +18,10 @@ namespace Exercise1
             string userErrLimitInput = Console.ReadLine();
             double errorlimit = double.Parse(userErrLimitInput);
 
-            double result = SquareRootUtilities.ComputeHeronSquareRoot(number, errorlimit);
+            // double result = SquareRootUtilities.ComputeSquareRoot(number, errorlimit);
+            SquareRootInfo mySqrt = new SquareRootInfo(errorlimit);
+            double result = mySqrt.ComputeSquareRoot(number);
+
             Console.WriteLine("The result is {0}", result);
             Console.ReadLine();
             
