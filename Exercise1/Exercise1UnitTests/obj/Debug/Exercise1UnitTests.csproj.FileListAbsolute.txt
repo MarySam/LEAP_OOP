@@ -1,0 +1,8 @@
+C:\Users\v-sammar\Documents\OOP\OOP Hmwrk\Exercise1\Exercise1UnitTests\bin\Debug\Exercise1UnitTests.dll
+C:\Users\v-sammar\Documents\OOP\OOP Hmwrk\Exercise1\Exercise1UnitTests\bin\Debug\Exercise1UnitTests.pdb
+C:\Users\v-sammar\Documents\OOP\OOP Hmwrk\Exercise1\Exercise1UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\v-sammar\Documents\OOP\OOP Hmwrk\Exercise1\Exercise1UnitTests\obj\Debug\Exercise1UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\v-sammar\Documents\OOP\OOP Hmwrk\Exercise1\Exercise1UnitTests\obj\Debug\Exercise1UnitTests.dll
+C:\Users\v-sammar\Documents\OOP\OOP Hmwrk\Exercise1\Exercise1UnitTests\obj\Debug\Exercise1UnitTests.pdb
+C:\Users\v-sammar\Documents\OOP\OOP Hmwrk\Exercise1\Exercise1UnitTests\bin\Debug\Exercise1.exe
+C:\Users\v-sammar\Documents\OOP\OOP Hmwrk\Exercise1\Exercise1UnitTests\bin\Debug\Exercise1.pdb
